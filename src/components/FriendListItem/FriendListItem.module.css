@@ -1,30 +1,13 @@
-.friendCard {
-  border: 4px solid black;
-  border-radius: 12px;
-  text-align: center;
+.item {
+  border: 2px solid black;
+  border-radius: 10px;
   padding: 20px;
-  min-width: 100px;
-}
-
-.friendCard img {
-  width: 80px;
-  margin-bottom: 26px;
-}
-
-.title {
-  font-weight: 500;
-  font-size: 28px;
 }
 
 .online {
-  color: green;
+  color: chartreuse;
 }
 
 .offline {
-  color: red;
-}
-
-p {
-  font-size: 20px;
-  font-weight: bold;
+  color: brown;
 }
